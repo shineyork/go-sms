@@ -1,3 +1,3 @@
-module github.com/shineyork/sms
-
+module github.com/shineyork/go-sms
+ 
 go 1.15
